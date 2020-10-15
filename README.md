@@ -1,2 +1,3 @@
 # Schema
-Database Schema with Erd
+
+![schema](https://github.com/ZCdotEXE/Schema/blob/main/Schema.png)
